@@ -12,6 +12,4 @@
 
 ### python_visual.py: 入门Matplotlib
 
-### python_weibo.py: 模拟登录新浪微博流程
-
 ### python_sqlalchemy.py: SQLAlchemy连接数据库
